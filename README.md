@@ -1,5 +1,5 @@
 # Simple-Calculator
-# Calculator using HTML and CSS only.
+Calculator using HTML and CSS only.
 <!DOCTYPE html>
 <html lang="en">
 <head>
